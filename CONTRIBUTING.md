@@ -1,6 +1,6 @@
-# Embark Contributor Guidelines
+# Contributor Guidelines
 
-Welcome! This project is created by the team at [Embark Studios](https://embark.games). We're glad you're interested in contributing! We welcome contributions from people of all backgrounds who are interested in making great software with us.
+We're glad you're interested in contributing! We welcome contributions from people of all backgrounds who are interested in making great software with us.
 
 At Embark, we aspire to empower everyone to create interactive experiences. To do this, we're exploring and pushing the boundaries of new technologies, and sharing our learnings with the open source community.
 
